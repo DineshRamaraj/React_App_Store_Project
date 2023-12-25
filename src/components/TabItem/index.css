@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.tab-list-item {
+  margin-left: 20px;
+}
+.tab-list-item-button {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  border: 0px;
+}
+
+.active {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
